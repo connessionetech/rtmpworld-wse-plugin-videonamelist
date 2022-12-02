@@ -1,4 +1,4 @@
-package com.rtmpworld.server.wowza;
+package com.rtmpworld.server.wowza.http;
 
 import java.io.File;
 import java.io.IOException;
@@ -27,8 +27,6 @@ public class HTTPMediaListProvider extends HTTProvider2Base {
 
 	private static String PROP_NAME_PREFIX = "medialist";
 	protected static String MODULE_NAME = "ModuleVideoNamesList";
-
-	private static String PROP_DEBUG = PROP_NAME_PREFIX + "Debug";
 
 	private static final Class<HTTPMediaListProvider> CLASS = HTTPMediaListProvider.class;
 	private static final String CLASSNAME = "HTTPMediaListProvider";
