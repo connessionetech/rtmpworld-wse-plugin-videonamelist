@@ -36,3 +36,5 @@ The HTTP endpoint will then be : `http://localhost:8086/contentlisting`. The end
 ---
 
 Coming soon!
+
+Meanwhile for more useful wowza plugins visit [rtmpworld.com](https://rtmpworld.com)
