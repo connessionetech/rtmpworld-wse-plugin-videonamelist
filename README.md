@@ -35,4 +35,4 @@ The HTTP endpoint will then be : `http://localhost:8086/contentlisting`. The end
 # Documentation
 ---
 
-The detailed documentation on the subject can be found [here]
+Coming soon!
